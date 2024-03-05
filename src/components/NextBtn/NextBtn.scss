@@ -1,0 +1,21 @@
+.next-btn {
+    background-color: #004171;
+    color: #F0F0F0;
+    font-family: "Caveat";
+    border-radius: 15px;
+    padding: .5rem;
+    text-align: center;
+    width: 15vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2.3vw;
+    cursor: pointer;
+    margin-top: 1.5rem;
+    outline: none;
+    border: none;
+
+    &:hover {
+        background-color: lighten($color: #004171, $amount: 15%);
+    }
+}

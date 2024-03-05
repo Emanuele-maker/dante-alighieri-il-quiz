@@ -1,0 +1,266 @@
+[
+    {
+        "quest": "Di Quale fazione faceva parte Dante?",
+        "rightAns": "C",
+        "answers": [
+          {
+            "id": "A",
+            "text": "Guelfi Neri"
+          },
+          {
+            "id": "B",
+            "text": "Ghibellini"
+          },
+          {
+            "id": "C",
+            "text": "Guelfi Bianchi"
+          },
+          {
+            "id": "D",
+            "text": "Guelfi Rossi"
+          }
+        ]
+    },
+    {
+        "quest": "Quale fu la massima carica politica ricoperta da Dante?",
+        "rightAns": "B",
+        "answers": [
+          {
+            "id": "A",
+            "text": "Podestà"
+          },
+          {
+            "id": "B",
+            "text": "Priore"
+          },
+          {
+            "id": "C",
+            "text": "Console"
+          },
+          {
+            "id": "D",
+            "text": "Re"
+          }
+        ]
+    },
+    {
+        "quest": "In che anno è nato Dante?",
+        "rightAns": "D",
+        "answers": [
+          {
+            "id": "A",
+            "text": "1270"
+          },
+          {
+            "id": "B",
+            "text": "1267"
+          },
+          {
+            "id": "C",
+            "text": "1271"
+          },
+          {
+            "id": "D",
+            "text": "1265"
+          }
+        ]
+    },
+    {
+        "quest": "Quale fu il suo importante saggio politico suddiviso in tre trattati?",
+        "rightAns": "A",
+        "answers": [
+          {
+            "id": "A",
+            "text": "De Monarchia"
+          },
+          {
+            "id": "B",
+            "text": "De bello Gallico"
+          },
+          {
+            "id": "C",
+            "text": "Breviarum ab urbe condita"
+          },
+          {
+            "id": "D",
+            "text": "De vulgari eloquentia"
+          }
+        ]
+    },
+    {
+      "quest": "Quanto dura il viaggio intrapreso da Dante nell'Inferno?",
+      "rightAns": "C",
+      "answers": [
+        {
+          "id": "A",
+          "text": "Un giorno"
+        },
+        {
+          "id": "B",
+          "text": "Due giorni e una notte"
+        },
+        {
+          "id": "C",
+          "text": "Un giorno e una notte"
+        },
+        {
+          "id": "D",
+          "text": "Una notte"
+        }
+      ]
+  },
+  {
+    "quest": "Chi definì La Commedia 'divina'?",
+    "rightAns": "A",
+    "answers": [
+      {
+        "id": "A",
+        "text": "Boccaccio"
+      },
+      {
+        "id": "B",
+        "text": "Petrarca"
+      },
+      {
+        "id": "C",
+        "text": "Foscolo"
+      },
+      {
+        "id": "D",
+        "text": "Manzoni"
+      }
+    ]
+  },
+  {
+    "quest": "Da quali elementi è formato il paradiso dantesco?",
+    "rightAns": "B",
+    "answers": [
+      {
+        "id": "A",
+        "text": "5 cerchi"
+      },
+      {
+        "id": "B",
+        "text": "9 cerchi e l'Empireo"
+      },
+      {
+        "id": "C",
+        "text": "7 cerchi"
+      },
+      {
+        "id": "D",
+        "text": "7 cerchi e l'Empireo"
+      }
+    ]
+  },
+  {
+    "quest": "Quali sono i dannati più odiati da Dante?",
+    "rightAns": "C",
+    "answers": [
+      {
+        "id": "A",
+        "text": "Lussuriosi"
+      },
+      {
+        "id": "B",
+        "text": "Golosi"
+      },
+      {
+        "id": "C",
+        "text": "Ignavi"
+      },
+      {
+        "id": "D",
+        "text": "Violenti"
+      }
+    ]
+  },
+  {
+    "quest": "Chi era il Re della Città di Dite?",
+    "rightAns": "D",
+    "answers": [
+      {
+        "id": "A",
+        "text": "Caronte"
+      },
+      {
+        "id": "B",
+        "text": "Loico"
+      },
+      {
+        "id": "C",
+        "text": "Minosse"
+      },
+      {
+        "id": "D",
+        "text": "Lucifero"
+      }
+    ]
+  },
+  {
+    "quest": "Chi accoglie i peccatori all'ingresso del secondo cerchio dell'Inferno?",
+    "rightAns": "A",
+    "answers": [
+      {
+        "id": "A",
+        "text": "Pluto"
+      },
+      {
+        "id": "B",
+        "text": "Lucifero"
+      },
+      {
+        "id": "C",
+        "text": "Virgilio"
+      },
+      {
+        "id": "D",
+        "text": "Dante"
+      }
+    ]
+  },
+  {
+    "quest": "Chi è Farinata degli Uberti?",
+    "rightAns": "B",
+    "answers": [
+      {
+        "id": "A",
+        "text": "Una traghettatore di anime"
+      },
+      {
+        "id": "B",
+        "text": "Un esponente dei ghibellini"
+      },
+      {
+        "id": "C",
+        "text": "Un dannato"
+      },
+      {
+        "id": "D",
+        "text": "Guardiano del VII cerchio"
+      }
+    ]
+  },
+  {
+    "quest": "Che cos'è il Flegetonte?",
+    "rightAns": "C",
+    "answers": [
+      {
+        "id": "A",
+        "text": "Un fiume di acque paludose"
+      },
+      {
+        "id": "B",
+        "text": "Un fiume nel 3° cerchio"
+      },
+      {
+        "id": "C",
+        "text": "Un fiume di sangue bollente"
+      },
+      {
+        "id": "D",
+        "text": "il fiume di Caronte"
+      }
+    ]
+  }
+]

@@ -1,0 +1,47 @@
+.main-btn {
+    width: fit-content;
+    display: flex;
+    align-items: center;
+    height: 3vw;
+    padding: 3vw;
+    cursor: pointer;
+    color: #F0F0F0;
+    font-family: "Caveat";
+    font-size: 3vw;
+    outline: none;
+}
+
+.brown-btn {
+    background-color: rgb(151, 113, 74);
+    border: 3px solid darken($color: rgb(151, 113, 74), $amount: 20%);
+
+    &:hover {
+        background-color: lighten($color: rgb(151, 113, 74), $amount: 15%);
+    }
+}
+
+.yellow-btn {
+    background-color: #FFCC00;
+    border: 3px solid darken($color: #FFCC00, $amount: 20%);
+
+    &:hover {
+        background-color: lighten($color: #FFCC00, $amount: 15%);
+    }
+}
+
+.red-btn {
+    background-color: #F25625;
+    border: 3px solid darken($color: #F25625, $amount: 20%);
+
+    &:hover {
+        background-color: lighten($color: #F25625, $amount: 15%);
+    }
+}
+
+.green-btn {
+    background-color: green;
+
+    &:hover {
+        background-color: lighten($color: green, $amount: 15%);
+    }
+}

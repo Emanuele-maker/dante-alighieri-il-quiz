@@ -1,0 +1,25 @@
+.answer-label {
+    width: 98%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid #F0F0F0;
+    border-radius: 15px;
+    font-family: "Caveat";
+    color: #F0F0F0;
+    height: 10vw;
+
+    h4, h5 {
+        font-size: 2.6vw;
+        margin: 0;
+        text-align: center;
+    }
+
+    .right-ans {
+        color: green;
+    }
+    .wrong-ans {
+        color: #F25625;
+    }
+}
