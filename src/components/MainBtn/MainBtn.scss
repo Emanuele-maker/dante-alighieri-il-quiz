@@ -1,14 +1,16 @@
 .main-btn {
-    width: fit-content;
+    width: 40vw;
     display: flex;
     align-items: center;
+    justify-content: center;
     height: 3vw;
     padding: 3vw;
     cursor: pointer;
     color: #F0F0F0;
     font-family: "Caveat";
-    font-size: 3vw;
-    outline: none;
+    font-size: 3.2vw;
+    text-align: center;
+    border-radius: 10px;
 }
 
 .brown-btn {
@@ -40,8 +42,24 @@
 
 .green-btn {
     background-color: green;
+    border: 3px solid darken($color: green, $amount: 20%);
 
     &:hover {
         background-color: lighten($color: green, $amount: 15%);
+    }
+}
+
+.cyan-btn {
+    background-color: rgb(1, 209, 209);
+    border: 3px solid darken($color: rgb(1, 209, 209), $amount: 20%);
+
+    &:hover {
+        background-color: lighten($color: rgb(1, 209, 209), $amount: 15%);
+    }
+}
+
+@media (max-width: 600px) {
+    .main-btn {
+        font-size: 5.2vw;
     }
 }

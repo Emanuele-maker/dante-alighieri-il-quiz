@@ -1,0 +1,398 @@
+[
+  {
+    "quest": "In quale cielo si trovano gli Angeli?",
+    "rightAns": "A",
+    "answers": [
+      {
+        "id": "A",
+        "text": "Primo"
+      },
+      {
+        "id": "B",
+        "text": "Nono"
+      },
+      {
+        "id": "C",
+        "text": "Quinto"
+      },
+      {
+        "id": "D",
+        "text": "Decimo"
+      }
+    ]
+  },
+  {
+    "quest": "Come si chiama il settimo cielo?",
+    "rightAns": "B",
+    "answers": [
+      {
+        "id": "A",
+        "text": "Luna"
+      },
+      {
+        "id": "B",
+        "text": "Saturno"
+      },
+      {
+        "id": "C",
+        "text": "Marte"
+      },
+      {
+        "id": "D",
+        "text": "Giove"
+      }
+    ]
+  },
+  {
+    "quest": "In quale canto viene descritto l'incontro tra Dante e Dio?",
+    "rightAns": "C",
+    "answers": [
+      {
+        "id": "A",
+        "text": "XXXII"
+      },
+      {
+        "id": "B",
+        "text": "XXIII"
+      },
+      {
+        "id": "C",
+        "text": "XXXIII"
+      },
+      {
+        "id": "D",
+        "text": "XXI"
+      }
+    ]
+  },
+  {
+    "quest": "Con quale celebre verso si conclude la Divina Commedia?",
+    "rightAns": "A",
+    "answers": [
+      {
+        "id": "A",
+        "text": "'L'amor che move il Sole e le altre stelle'"
+      },
+      {
+        "id": "B",
+        "text": "'Puro e disposto a salire le stelle'"
+      },
+      {
+        "id": "C",
+        "text": "'E quindi uscimmo a riveder le stelle'"
+      },
+      {
+        "id": "D",
+        "text": "Nessuno dei precedenti"
+      }
+    ]
+  },
+  {
+    "quest": "Da quali elementi è formato il paradiso dantesco?",
+    "rightAns": "B",
+    "answers": [
+      {
+        "id": "A",
+        "text": "5 cerchi"
+      },
+      {
+        "id": "B",
+        "text": "9 cerchi e l'Empireo"
+      },
+      {
+        "id": "C",
+        "text": "7 cerchi"
+      },
+      {
+        "id": "D",
+        "text": "7 cerchi e l'Empireo"
+      }
+    ]
+  },
+  {
+    "quest": "Chi accompagna Dante nel Paradiso?",
+    "rightAns": "C",
+    "answers": [
+      {
+        "id": "A",
+        "text": "Virgilio"
+      },
+      {
+        "id": "B",
+        "text": "Catone Uticense"
+      },
+      {
+        "id": "C",
+        "text": "Beatrice"
+      },
+      {
+        "id": "D",
+        "text": "San Bernardo"
+      }
+    ]
+  },
+  {
+    "quest": "In quale cielo Dante incontra San Francesco?",
+    "rightAns": "D",
+    "answers": [
+      {
+        "id": "A",
+        "text": "Saturno"
+      },
+      {
+        "id": "B",
+        "text": "Luna"
+      },
+      {
+        "id": "C",
+        "text": "Marte"
+      },
+      {
+        "id": "D",
+        "text": "Sole"
+      }
+    ]
+  },
+  {
+    "quest": "Chi incontra nell'ultimo cielo?",
+    "rightAns": "A",
+    "answers": [
+      {
+        "id": "A",
+        "text": "Maria"
+      },
+      {
+        "id": "B",
+        "text": "San Francesco"
+      },
+      {
+        "id": "C",
+        "text": "San Bernardo"
+      },
+      {
+        "id": "D",
+        "text": "San Giuseppe"
+      }
+    ]
+  },
+  {
+    "quest": "Come si chiama il quinto cielo?",
+    "rightAns": "B",
+    "answers": [
+      {
+        "id": "A",
+        "text": "Luna"
+      },
+      {
+        "id": "B",
+        "text": "Marte"
+      },
+      {
+        "id": "C",
+        "text": "Venere"
+      },
+      {
+        "id": "D",
+        "text": "Saturno"
+      }
+    ]
+  },
+  {
+    "quest": "Qual è l'apparizione degli Spiriti sapienti?",
+    "rightAns": "A",
+    "answers": [
+      {
+        "id": "A",
+        "text": "Danzano e cantano in triplice corona"
+      },
+      {
+        "id": "B",
+        "text": "Luci accese  da un Sole fulgente"
+      },
+      {
+        "id": "C",
+        "text": "Una Rosa mistica"
+      },
+      {
+        "id": "D",
+        "text": "Gemme in croce luminosa"
+      }
+    ]
+  },
+  {
+    "quest": "Che cosa rappresentano i primi 7 cieli?",
+    "rightAns": "C",
+    "answers": [
+      {
+        "id": "A",
+        "text": "Degli insegnamenti"
+      },
+      {
+        "id": "B",
+        "text": "Dei Santi"
+      },
+      {
+        "id": "C",
+        "text": "Delle virtù"
+      },
+      {
+        "id": "D",
+        "text": "Dio"
+      }
+    ]
+  },
+  {
+    "quest": "Cosa si trova nell'ottavo cielo?",
+    "rightAns": "D",
+    "answers": [
+      {
+        "id": "A",
+        "text": "Saturno"
+      },
+      {
+        "id": "B",
+        "text": "Empireo"
+      },
+      {
+        "id": "C",
+        "text": "Dio"
+      },
+      {
+        "id": "D",
+        "text": "Le stelle fisse"
+      }
+    ]
+  },
+  {
+    "quest": "Cosa si trova nell'ottavo cielo?",
+    "rightAns": "D",
+    "answers": [
+      {
+        "id": "A",
+        "text": "Saturno"
+      },
+      {
+        "id": "B",
+        "text": "Empireo"
+      },
+      {
+        "id": "C",
+        "text": "Dio"
+      },
+      {
+        "id": "D",
+        "text": "Le stelle fisse"
+      }
+    ]
+  },
+  {
+    "quest": "Cosa si trova nel nono cielo?",
+    "rightAns": "A",
+    "answers": [
+      {
+        "id": "A",
+        "text": "Primo Mobile"
+      },
+      {
+        "id": "B",
+        "text": "Venere"
+      },
+      {
+        "id": "C",
+        "text": "Dio"
+      },
+      {
+        "id": "D",
+        "text": "Le stelle fisse"
+      }
+    ]
+  },
+  {
+    "quest": "Cosa consiglia Cacciaguida a Dante riguardo alla profezia del suo esilio?",
+    "rightAns": "A",
+    "answers": [
+      {
+        "id": "A",
+        "text": "Di accettare il proprio destino"
+      },
+      {
+        "id": "B",
+        "text": "Di scappare con la violenza"
+      },
+      {
+        "id": "C",
+        "text": "Di non ascoltare la profezia"
+      },
+      {
+        "id": "D",
+        "text": "Di non tornare sulla Terra"
+      }
+    ]
+  },
+  {
+    "quest": "Dove si trovano i beati e gli angeli?",
+    "rightAns": "B",
+    "answers": [
+      {
+        "id": "A",
+        "text": "Nel terzo cielo"
+      },
+      {
+        "id": "B",
+        "text": "Nell'Empireo"
+      },
+      {
+        "id": "C",
+        "text": "Nel Paradiso Terrestre"
+      },
+      {
+        "id": "D",
+        "text": "Nel cielo di Venere"
+      }
+    ]
+  },
+  {
+    "quest": "Attraverso quale neologismo Dante descrive il suo ingresso in Paradiso?",
+    "rightAns": "C",
+    "answers": [
+      {
+        "id": "A",
+        "text": "'Traspomenar'"
+      },
+      {
+        "id": "B",
+        "text": "'Arrivar'"
+      },
+      {
+        "id": "C",
+        "text": "'Transumanar'"
+      },
+      {
+        "id": "D",
+        "text": "'Barcamenar'"
+      }
+    ]
+  },
+  {
+    "quest": "Chi incontra Dante nel sesto canto?",
+    "rightAns": "D",
+    "answers": [
+      {
+        "id": "A",
+        "text": "Maria"
+      },
+      {
+        "id": "B",
+        "text": "Cacciaguida"
+      },
+      {
+        "id": "C",
+        "text": "San Francesco"
+      },
+      {
+        "id": "D",
+        "text": "Giustiniano"
+      }
+    ]
+  }
+]

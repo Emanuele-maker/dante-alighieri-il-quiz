@@ -1,0 +1,420 @@
+[
+  {
+    "quest": "In cosa viene diviso il Purgatorio?",
+    "rightAns": "C",
+    "answers": [
+      {
+        "id": "A",
+        "text": "Cerchi"
+      },
+      {
+        "id": "B",
+        "text": "Mari"
+      },
+      {
+        "id": "C",
+        "text": "Cornici"
+      },
+      {
+        "id": "D",
+        "text": "Gironi"
+      }
+    ]
+  },
+  {
+    "quest": "Agli antipodi di quale città si trova la montagna del Purgatorio?",
+    "rightAns": "D",
+    "answers": [
+      {
+        "id": "A",
+        "text": "Betlemme"
+      },
+      {
+        "id": "B",
+        "text": "Bisanzio"
+      },
+      {
+        "id": "C",
+        "text": "Costantinopoli"
+      },
+      {
+        "id": "D",
+        "text": "Gerusalemme"
+      }
+    ]
+  },
+  {
+    "quest": "Chi ha ucciso Pia de' Tolomei?",
+    "rightAns": "C",
+    "answers": [
+      {
+        "id": "A",
+        "text": "Il figlio"
+      },
+      {
+        "id": "B",
+        "text": "Il padre"
+      },
+      {
+        "id": "C",
+        "text": "Il marito"
+      },
+      {
+        "id": "D",
+        "text": "Il fratello"
+      }
+    ]
+  },
+  {
+      "quest": "Chi si trova nel V canto del Purgatorio?",
+      "rightAns": "A",
+      "answers": [
+        {
+          "id": "A",
+          "text": "Pia de' Tolomei"
+        },
+        {
+          "id": "B",
+          "text": "Marco Lombardo"
+        },
+        {
+          "id": "C",
+          "text": "Casella"
+        },
+        {
+          "id": "D",
+          "text": "Sordello da Goito"
+        }
+      ]
+  },
+  {
+    "quest": "Chi è la personificazione della felicità peretta?",
+    "rightAns": "B",
+    "answers": [
+      {
+        "id": "A",
+        "text": "Crisalide"
+      },
+      {
+        "id": "B",
+        "text": "Matelda"
+      },
+      {
+        "id": "C",
+        "text": "Priscilla"
+      },
+      {
+        "id": "D",
+        "text": "Larinda"
+      }
+    ]
+  },
+  {
+    "quest": "Chi incontra nella prima cornice?",
+    "rightAns": "C",
+    "answers": [
+      {
+        "id": "A",
+        "text": "Lussuriosi"
+      },
+      {
+        "id": "B",
+        "text": "Invidiosi"
+      },
+      {
+        "id": "C",
+        "text": "Superbi"
+      },
+      {
+        "id": "D",
+        "text": "Iracondi"
+      }
+    ]
+  },
+  {
+    "quest": "Da dove approdano Dante e Virgilio dopo essere usciti dall'Inferno?",
+    "rightAns": "D",
+    "answers": [
+      {
+        "id": "A",
+        "text": "Lago"
+      },
+      {
+        "id": "B",
+        "text": "Fiume"
+      },
+      {
+        "id": "C",
+        "text": "Cielo"
+      },
+      {
+        "id": "D",
+        "text": "Mare"
+      }
+    ]
+  },
+  {
+    "quest": "Com'è diviso il Purgatorio dantesco?",
+    "rightAns": "A",
+    "answers": [
+      {
+        "id": "A",
+        "text": "Antipurgatorio, Purgatorio e Paradiso Terrestre"
+      },
+      {
+        "id": "B",
+        "text": "Antipurgatorio e Purgatorio"
+      },
+      {
+        "id": "C",
+        "text": "Purgatorio e Paradiso Terrestre"
+      },
+      {
+        "id": "D",
+        "text": "Solo Purgatorio"
+      }
+    ]
+  },
+  {
+    "quest": "Chi canta il salmo 'In exitu Israel de Aegypto'?",
+    "rightAns": "A",
+    "answers": [
+      {
+        "id": "A",
+        "text": "Le anime trasportate dall'uccel divino"
+      },
+      {
+        "id": "B",
+        "text": "Le anime invidiose"
+      },
+      {
+        "id": "C",
+        "text": "Dante"
+      },
+      {
+        "id": "D",
+        "text": "Le anime lussuriose"
+      }
+    ]
+  },
+  {
+    "quest": "Dove viene collocato Manfredi di Svevia?",
+    "rightAns": "B",
+    "answers": [
+      {
+        "id": "A",
+        "text": "Terza Cornice"
+      },
+      {
+        "id": "B",
+        "text": "Paradiso Terrestre"
+      },
+      {
+        "id": "C",
+        "text": "Antipurgatorio"
+      },
+      {
+        "id": "D",
+        "text": "Prima Cornice"
+      }
+    ]
+  },
+  {
+    "quest": "Come si presenta Beatrice, a Dante?",
+    "rightAns": "A",
+    "answers": [
+      {
+        "id": "A",
+        "text": "Su un carro"
+      },
+      {
+        "id": "B",
+        "text": "Su un cavallo"
+      },
+      {
+        "id": "C",
+        "text": "Seduta a terra"
+      },
+      {
+        "id": "D",
+        "text": "Seduta su un ramo"
+      }
+    ]
+  },
+  {
+    "quest": "Perchè Virgilio non può entrare in Paradiso?",
+    "rightAns": "C",
+    "answers": [
+      {
+        "id": "A",
+        "text": "Non voleva"
+      },
+      {
+        "id": "B",
+        "text": "Era troppo vecchio"
+      },
+      {
+        "id": "C",
+        "text": "Non era cristiano"
+      },
+      {
+        "id": "D",
+        "text": "Non era degno"
+      }
+    ]
+  },
+  {
+    "quest": "Di cosa parlano i primi 12 versi del purgatorio?",
+    "rightAns": "D",
+    "answers": [
+      {
+        "id": "A",
+        "text": "Una descrizione paesaggistica"
+      },
+      {
+        "id": "B",
+        "text": "Ringraziamento a Dio"
+      },
+      {
+        "id": "C",
+        "text": "Un' invocazione alla Musa"
+      },
+      {
+        "id": "D",
+        "text": "Catone"
+      }
+    ]
+  },
+  {
+    "quest": "Chi porta le anime nel purgatorio?",
+    "rightAns": "A",
+    "answers": [
+      {
+        "id": "A",
+        "text": "Un angelo"
+      },
+      {
+        "id": "B",
+        "text": "Caronte"
+      },
+      {
+        "id": "C",
+        "text": "Beatrice"
+      },
+      {
+        "id": "D",
+        "text": "Catone"
+      }
+    ]
+  },
+  {
+    "quest": "Qual è la punizione per gli iracondi?",
+    "rightAns": "B",
+    "answers": [
+      {
+        "id": "A",
+        "text": "Patiscono la fame"
+      },
+      {
+        "id": "B",
+        "text": "Camminano nel fumo"
+      },
+      {
+        "id": "C",
+        "text": "Camminano nel fuoco"
+      },
+      {
+        "id": "D",
+        "text": "Hanno le palpebre cucite"
+      }
+    ]
+  },
+  {
+    "quest": "Qual è la punizione per gli avari?",
+    "rightAns": "C",
+    "answers": [
+      {
+        "id": "A",
+        "text": "Patiscono la fame"
+      },
+      {
+        "id": "B",
+        "text": "Camminano nel fuoco"
+      },
+      {
+        "id": "C",
+        "text": "Sono sdraiati e legati"
+      },
+      {
+        "id": "D",
+        "text": "Corrono gridando"
+      }
+    ]
+  },
+  {
+    "quest": "Quali sono i due fiumi del Paradiso Terrestre?",
+    "rightAns": "D",
+    "answers": [
+      {
+        "id": "A",
+        "text": "Eunoè ed Acheronte"
+      },
+      {
+        "id": "B",
+        "text": "Lete e Flegetonte"
+      },
+      {
+        "id": "C",
+        "text": "Flegetonte ed Eunoè"
+      },
+      {
+        "id": "D",
+        "text": "Lete ed Eunoè"
+      }
+    ]
+  },
+  {
+    "quest": "Qual è la punizione per gli invidiosi?",
+    "rightAns": "A",
+    "answers": [
+      {
+        "id": "A",
+        "text": "Hanno le palpebre cucite"
+      },
+      {
+        "id": "B",
+        "text": "Camminano nel fumo"
+      },
+      {
+        "id": "C",
+        "text": "Camminano nel fuoco"
+      },
+      {
+        "id": "D",
+        "text": "Sono sdraiati e legati"
+      }
+    ]
+  },
+  {
+    "quest": "Qual è la punizione per i golosi?",
+    "rightAns": "B",
+    "answers": [
+      {
+        "id": "A",
+        "text": "Hanno le palpebre cucite"
+      },
+      {
+        "id": "B",
+        "text": "Patiscono la fame"
+      },
+      {
+        "id": "C",
+        "text": "Camminano nel fuoco"
+      },
+      {
+        "id": "D",
+        "text": "Sono sdraiati e legati"
+      }
+    ]
+  }
+]

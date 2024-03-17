@@ -12,9 +12,9 @@
         .answers-container {
             width: 100%;
             display: grid;
-            column-gap: 1.5rem;
+            column-gap: 2vw;
             grid-template-columns: 50% 50%;
-            row-gap: 70px;
+            row-gap: 3.2vw;
             justify-content: center;
             place-items: center;
         }
@@ -22,34 +22,30 @@
 }
 
 @media (max-width: 1000px) {
-    .answers-container {
+    .question-page .grid-container .answers-container {
         grid-template-columns: 50% 50%;
     }
 }
 
 @media (max-width: 900px) {
-    .answers-container-container {
-        display: flex;
-        width: 100%;
-        justify-content: center;
-    }
-    .answers-container {
+    .question-page .grid-container .answers-container {
         display: flex;
         width: 100%;
         flex-direction: column;
         align-items: center;
         justify-content: center;
         padding: 0;
+        gap: 20px;
 
-        div {
-            margin: 1rem 0;
+        button {
             width: 80%;
+            height: 30px;
         }
     }
 }
 
 @media (max-width: 650px) {
-    .answers-container {
+    .question-page .grid-container .answers-container {
         div {
             width: 95%;
         }
@@ -57,7 +53,7 @@
 }
 
 @media (max-width: 450px) {
-    .answers-container {
+    .question-page .grid-container .answers-container {
         margin-left: 0;
         div {
             width: 98%;

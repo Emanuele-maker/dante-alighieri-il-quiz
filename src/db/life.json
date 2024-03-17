@@ -1,0 +1,398 @@
+[
+    {
+        "quest": "Qual era il vero titolo della Divina Commedia?",
+        "rightAns": "C",
+        "answers": [
+          {
+            "id": "A",
+            "text": "La vecchia commedia"
+          },
+          {
+            "id": "B",
+            "text": "La Commedia dei Divini"
+          },
+          {
+            "id": "C",
+            "text": "La Commedia"
+          },
+          {
+            "id": "D",
+            "text": "L'antica commedia"
+          }
+        ]
+      },
+      {
+        "quest": "Qual è il metro utilizzato nella Commedia?",
+        "rightAns": "D",
+        "answers": [
+          {
+            "id": "A",
+            "text": "Quinario"
+          },
+          {
+            "id": "B",
+            "text": "Settenario"
+          },
+          {
+            "id": "C",
+            "text": "Trisillabo"
+          },
+          {
+            "id": "D",
+            "text": "Endecasillabo"
+          }
+        ]
+    },
+    {
+        "quest": "In che lingua scrisse la Divina Commedia",
+        "rightAns": "B",
+        "answers": [
+          {
+            "id": "A",
+            "text": "Latino"
+          },
+          {
+            "id": "B",
+            "text": "Volgare fiorentino"
+          },
+          {
+            "id": "C",
+            "text": "Volgare umbro"
+          },
+          {
+            "id": "D",
+            "text": "Volgare siciliano"
+          }
+        ]
+    },
+    {
+        "quest": "Di Quale fazione faceva parte Dante?",
+        "rightAns": "C",
+        "answers": [
+          {
+            "id": "A",
+            "text": "Guelfi Neri"
+          },
+          {
+            "id": "B",
+            "text": "Ghibellini"
+          },
+          {
+            "id": "C",
+            "text": "Guelfi Bianchi"
+          },
+          {
+            "id": "D",
+            "text": "Guelfi Rossi"
+          }
+        ]
+    },
+    {
+        "quest": "Quale fu la massima carica politica ricoperta da Dante?",
+        "rightAns": "B",
+        "answers": [
+          {
+            "id": "A",
+            "text": "Podestà"
+          },
+          {
+            "id": "B",
+            "text": "Priore"
+          },
+          {
+            "id": "C",
+            "text": "Console"
+          },
+          {
+            "id": "D",
+            "text": "Re"
+          }
+        ]
+    },
+    {
+        "quest": "In che anno è nato Dante?",
+        "rightAns": "D",
+        "answers": [
+          {
+            "id": "A",
+            "text": "1270"
+          },
+          {
+            "id": "B",
+            "text": "1267"
+          },
+          {
+            "id": "C",
+            "text": "1271"
+          },
+          {
+            "id": "D",
+            "text": "1265"
+          }
+        ]
+    },
+    {
+        "quest": "Quale fu il suo importante saggio politico suddiviso in tre trattati?",
+        "rightAns": "A",
+        "answers": [
+          {
+            "id": "A",
+            "text": "De Monarchia"
+          },
+          {
+            "id": "B",
+            "text": "De bello Gallico"
+          },
+          {
+            "id": "C",
+            "text": "Breviarum ab urbe condita"
+          },
+          {
+            "id": "D",
+            "text": "De vulgari eloquentia"
+          }
+        ]
+    },
+    {
+        "quest": "Chi definì La Commedia 'divina'?",
+        "rightAns": "A",
+        "answers": [
+          {
+            "id": "A",
+            "text": "Boccaccio"
+          },
+          {
+            "id": "B",
+            "text": "Petrarca"
+          },
+          {
+            "id": "C",
+            "text": "Foscolo"
+          },
+          {
+            "id": "D",
+            "text": "Manzoni"
+          }
+        ]
+    },
+    {
+        "quest": "Dove è nato Dante?",
+        "rightAns": "B",
+        "answers": [
+          {
+            "id": "A",
+            "text": "Bologna"
+          },
+          {
+            "id": "B",
+            "text": "Firenze"
+          },
+          {
+            "id": "C",
+            "text": "Roma"
+          },
+          {
+            "id": "D",
+            "text": "Torino"
+          }
+        ]
+    },
+    {
+        "quest": "Quali materie studiò Dante?",
+        "rightAns": "C",
+        "answers": [
+          {
+            "id": "A",
+            "text": "Musica e canto"
+          },
+          {
+            "id": "B",
+            "text": "Matematica e geometria"
+          },
+          {
+            "id": "C",
+            "text": "Retorica e grammatica"
+          },
+          {
+            "id": "D",
+            "text": "Filosofia e diritto"
+          }
+        ]
+    },
+    {
+        "quest": "Chi furono i maestri di Dante?",
+        "rightAns": "D",
+        "answers": [
+          {
+            "id": "A",
+            "text": "Ciro da Pistoia e Guido Cavalcanti"
+          },
+          {
+            "id": "B",
+            "text": "Ciro da Pistoia e Guido Guinizzelli"
+          },
+          {
+            "id": "C",
+            "text": "Bruno Latini e Guido Cavalcanti"
+          },
+          {
+            "id": "D",
+            "text": "Brunetto Latini e Guido Guinizzelli"
+          }
+        ]
+    },
+    {
+        "quest": "A quale corrente letteraria aderì Dante?",
+        "rightAns": "A",
+        "answers": [
+          {
+            "id": "A",
+            "text": "Dolce Stilnovo"
+          },
+          {
+            "id": "B",
+            "text": "Romanticismo"
+          },
+          {
+            "id": "C",
+            "text": "Ciclo Bretone"
+          },
+          {
+            "id": "D",
+            "text": "Umanesimo"
+          }
+        ]
+    },
+    {
+        "quest": "Nella Divina Commedia Dante racconta di:",
+        "rightAns": "B",
+        "answers": [
+          {
+            "id": "A",
+            "text": "Un viaggio per il Mediterraneo"
+          },
+          {
+            "id": "B",
+            "text": "Un viaggio nell'aldilà"
+          },
+          {
+            "id": "C",
+            "text": "Il ritorno a Firenze"
+          },
+          {
+            "id": "D",
+            "text": "Un viaggio lussuoso"
+          }
+        ]
+    },
+    {
+        "quest": "La Divina Commedia è un testo pieno di:",
+        "rightAns": "C",
+        "answers": [
+          {
+            "id": "A",
+            "text": "Esempi e ammonimenti"
+          },
+          {
+            "id": "B",
+            "text": "Storielle e barzellette"
+          },
+          {
+            "id": "C",
+            "text": "Simboli e allegorie"
+          },
+          {
+            "id": "D",
+            "text": "Favole e fiabe"
+          }
+        ]
+    },
+    {
+        "quest": "I versi della Commedia sono raggruppati in:",
+        "rightAns": "D",
+        "answers": [
+          {
+            "id": "A",
+            "text": "Terzine a rima baciata"
+          },
+          {
+            "id": "B",
+            "text": "Quartine a rima baciata"
+          },
+          {
+            "id": "C",
+            "text": "Quartine a rima incatenata"
+          },
+          {
+            "id": "D",
+            "text": "Terzine a rima incatenata"
+          }
+        ]
+    },
+    {
+        "quest": "In che epoca è ambientata la Commedia?",
+        "rightAns": "A",
+        "answers": [
+          {
+            "id": "A",
+            "text": "1300"
+          },
+          {
+            "id": "B",
+            "text": "1200"
+          },
+          {
+            "id": "C",
+            "text": "1100"
+          },
+          {
+            "id": "D",
+            "text": "1400"
+          }
+        ]
+    },
+    {
+        "quest": "Quale ruolo si prefigge Dante?",
+        "rightAns": "B",
+        "answers": [
+          {
+            "id": "A",
+            "text": "Anima pura"
+          },
+          {
+            "id": "B",
+            "text": "Poeta vate"
+          },
+          {
+            "id": "C",
+            "text": "Illuminato"
+          },
+          {
+            "id": "D",
+            "text": "Letterato"
+          }
+        ]
+    },
+    {
+        "quest": "In che anno inizia a scrivere la Commedia?",
+        "rightAns": "C",
+        "answers": [
+          {
+            "id": "A",
+            "text": "1390"
+          },
+          {
+            "id": "B",
+            "text": "1325"
+          },
+          {
+            "id": "C",
+            "text": "1304"
+          },
+          {
+            "id": "D",
+            "text": "1367"
+          }
+        ]
+    }
+]

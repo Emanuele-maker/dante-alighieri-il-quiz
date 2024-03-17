@@ -1,0 +1,574 @@
+[
+  {
+      "quest": "Da quanti canti è formata la cantica dell'inferno?",
+      "rightAns": "B",
+      "answers": [
+        {
+          "id": "A",
+          "text": "34"
+        },
+        {
+          "id": "B",
+          "text": "33"
+        },
+        {
+          "id": "C",
+          "text": "25"
+        },
+        {
+          "id": "D",
+          "text": "31"
+        }
+      ]
+  },
+  {
+      "quest": "Da quanti cerchi è composto l'inferno?",
+      "rightAns": "C",
+      "answers": [
+        {
+          "id": "A",
+          "text": "10"
+        },
+        {
+          "id": "B",
+          "text": "7"
+        },
+        {
+          "id": "C",
+          "text": "9"
+        },
+        {
+          "id": "D",
+          "text": "11"
+        }
+      ]
+  },
+  {
+      "quest": "Da quali animali Dante viene ostacolato nella selva oscura salendo le pendici di un colle?",
+      "rightAns": "D",
+      "answers": [
+        {
+          "id": "A",
+          "text": "Un Branco di lupi"
+        },
+        {
+          "id": "B",
+          "text": "Una lonza, una leonessa e una tigre"
+        },
+        {
+          "id": "C",
+          "text": "Un leone, una pantera e una renna"
+        },
+        {
+          "id": "D",
+          "text": "Una lonza, un leone e una lupa"
+        }
+      ]
+  },
+  {
+      "quest": "Chi sarà la guida di Dante verso la sommità del colle della salvezza attraversando l'Inferno?",
+      "rightAns": "A",
+      "answers": [
+        {
+          "id": "A",
+          "text": "Virgilio"
+        },
+        {
+          "id": "B",
+          "text": "Caronte"
+        },
+        {
+          "id": "C",
+          "text": "Beatrice"
+        },
+        {
+          "id": "D",
+          "text": "San Bernardo"
+        }
+      ]
+  },
+  {
+    "quest": "Quali sono i 3 traditori supremi?",
+    "rightAns": "A",
+    "answers": [
+      {
+        "id": "A",
+        "text": "Bruto, Cassio, e Giuda"
+      },
+      {
+        "id": "B",
+        "text": "Bruto, Cassio e Pompeo"
+      },
+      {
+        "id": "C",
+        "text": "Giuda, Crasso e Efialte"
+      },
+      {
+        "id": "D",
+        "text": "Annibale, Bruto e Pompeo"
+      }
+    ]
+  },
+  {
+    "quest": "Chi era il giudice infernale?",
+    "rightAns": "C",
+    "answers": [
+      {
+        "id": "A",
+        "text": "Caronte"
+      },
+      {
+        "id": "B",
+        "text": "Catone"
+      },
+      {
+        "id": "C",
+        "text": "Minosse"
+      },
+      {
+        "id": "D",
+        "text": "Lucifero"
+      }
+    ]
+  },
+  {
+    "quest": "Chi era Flegiàs?",
+    "rightAns": "A",
+    "answers": [
+      {
+        "id": "A",
+        "text": "Un traghettatore infernale"
+      },
+      {
+        "id": "B",
+        "text": "Una divinità"
+      },
+      {
+        "id": "C",
+        "text": "Il guardiano dell'VIII cerchio"
+      },
+      {
+        "id": "D",
+        "text": "Un peccatore"
+      }
+    ]
+  },
+  {
+    "quest": "Chi era Gerione?",
+    "rightAns": "B",
+    "answers": [
+      {
+        "id": "A",
+        "text": "Un cane mostruoso a 3 teste"
+      },
+      {
+        "id": "B",
+        "text": "Un mostro alato con coda di serpente"
+      },
+      {
+        "id": "C",
+        "text": "Un drago sputafuoco"
+      },
+      {
+        "id": "D",
+        "text": "El Primo"
+      }
+    ]
+  },
+  {
+    "quest": "Quanto dura il viaggio intrapreso da Dante nell'Inferno?",
+    "rightAns": "C",
+    "answers": [
+      {
+        "id": "A",
+        "text": "Un giorno"
+      },
+      {
+        "id": "B",
+        "text": "Due giorni e una notte"
+      },
+      {
+        "id": "C",
+        "text": "Un giorno e una notte"
+      },
+      {
+        "id": "D",
+        "text": "Una notte"
+      }
+    ]
+  },
+  {
+    "quest": "Quali sono i dannati più odiati da Dante?",
+    "rightAns": "C",
+    "answers": [
+      {
+        "id": "A",
+        "text": "Lussuriosi"
+      },
+      {
+        "id": "B",
+        "text": "Golosi"
+      },
+      {
+        "id": "C",
+        "text": "Ignavi"
+      },
+      {
+        "id": "D",
+        "text": "Violenti"
+      }
+    ]
+  },
+  {
+    "quest": "Chi era il Re della Città di Dite?",
+    "rightAns": "D",
+    "answers": [
+      {
+        "id": "A",
+        "text": "Caronte"
+      },
+      {
+        "id": "B",
+        "text": "Loico"
+      },
+      {
+        "id": "C",
+        "text": "Minosse"
+      },
+      {
+        "id": "D",
+        "text": "Lucifero"
+      }
+    ]
+  },
+  {
+    "quest": "Chi accoglie i peccatori all'ingresso del secondo cerchio dell'Inferno?",
+    "rightAns": "A",
+    "answers": [
+      {
+        "id": "A",
+        "text": "Pluto"
+      },
+      {
+        "id": "B",
+        "text": "Lucifero"
+      },
+      {
+        "id": "C",
+        "text": "Virgilio"
+      },
+      {
+        "id": "D",
+        "text": "Dante"
+      }
+    ]
+  },
+  {
+    "quest": "Chi è Farinata degli Uberti?",
+    "rightAns": "B",
+    "answers": [
+      {
+        "id": "A",
+        "text": "Una traghettatore di anime"
+      },
+      {
+        "id": "B",
+        "text": "Un esponente dei ghibellini"
+      },
+      {
+        "id": "C",
+        "text": "Un dannato"
+      },
+      {
+        "id": "D",
+        "text": "Guardiano del VII cerchio"
+      }
+    ]
+  },
+  {
+    "quest": "Che cos'è il Flegetonte?",
+    "rightAns": "C",
+    "answers": [
+      {
+        "id": "A",
+        "text": "Un fiume di acque paludose"
+      },
+      {
+        "id": "B",
+        "text": "Un fiume nel 3° cerchio dell'inferno"
+      },
+      {
+        "id": "C",
+        "text": "Un fiume di sangue bollente"
+      },
+      {
+        "id": "D",
+        "text": "il fiume di Caronte"
+      }
+    ]
+  },
+  {
+    "quest": "Chi si prende l'anima di Guido da Montefeltro?",
+    "rightAns": "D",
+    "answers": [
+      {
+        "id": "A",
+        "text": "San Francesco"
+      },
+      {
+        "id": "B",
+        "text": "San Bernardo"
+      },
+      {
+        "id": "C",
+        "text": "Lucifero"
+      },
+      {
+        "id": "D",
+        "text": "Loico"
+      }
+    ]
+  },
+  {
+    "quest": "Chi si prende l'anima di Bonconte?",
+    "rightAns": "C",
+    "answers": [
+      {
+        "id": "A",
+        "text": "San Francesco"
+      },
+      {
+        "id": "B",
+        "text": "Lucifero"
+      },
+      {
+        "id": "C",
+        "text": "Maria"
+      },
+      {
+        "id": "D",
+        "text": "Loico"
+      }
+    ]
+  },
+  {
+    "quest": "I barattieri vengono puniti in quale bolgia dell'VIII cerchio dell'Inferno?",
+    "rightAns": "D",
+    "answers": [
+      {
+        "id": "A",
+        "text": "Ottava"
+      },
+      {
+        "id": "B",
+        "text": "Quarta"
+      },
+      {
+        "id": "C",
+        "text": "Sesta"
+      },
+      {
+        "id": "D",
+        "text": "Quinta"
+      }
+    ]
+  },
+  {
+    "quest": "Che cosa simboleggia la 'selva oscura'?",
+    "rightAns": "A",
+    "answers": [
+      {
+        "id": "A",
+        "text": "Il peccato"
+      },
+      {
+        "id": "B",
+        "text": "Un luogo tenebroso"
+      },
+      {
+        "id": "C",
+        "text": "La morte"
+      },
+      {
+        "id": "D",
+        "text": "La rassegnazione"
+      }
+    ]
+  },
+  {
+    "quest": "Dove si trova l'Inferno?",
+    "rightAns": "B",
+    "answers": [
+      {
+        "id": "A",
+        "text": "Sotto Roma"
+      },
+      {
+        "id": "B",
+        "text": "Sotto Gerusalemme"
+      },
+      {
+        "id": "C",
+        "text": "In cima a una montagna"
+      },
+      {
+        "id": "D",
+        "text": "Sotto Betlemme"
+      }
+    ]
+  },
+  {
+    "quest": "Che cosa rappresenta Virgilio?",
+    "rightAns": "C",
+    "answers": [
+      {
+        "id": "A",
+        "text": "La fede"
+      },
+      {
+        "id": "B",
+        "text": "L'istruzione"
+      },
+      {
+        "id": "C",
+        "text": "La ragione"
+      },
+      {
+        "id": "D",
+        "text": "Lo Stato"
+      }
+    ]
+  },
+  {
+    "quest": "Chi è conficcato nella voragine che si spinge fino al centro della Terra",
+    "rightAns": "D",
+    "answers": [
+      {
+        "id": "A",
+        "text": "Nessuno"
+      },
+      {
+        "id": "B",
+        "text": "Minosse"
+      },
+      {
+        "id": "C",
+        "text": "Caronte"
+      },
+      {
+        "id": "D",
+        "text": "Lucifero"
+      }
+    ]
+  },
+  {
+    "quest": "In quale cerchio dell'Inferno vengono puniti i Lussuriosi?",
+    "rightAns": "A",
+    "answers": [
+      {
+        "id": "A",
+        "text": "Secondo"
+      },
+      {
+        "id": "B",
+        "text": "Nono"
+      },
+      {
+        "id": "C",
+        "text": "Settimo"
+      },
+      {
+        "id": "D",
+        "text": "Quarto"
+      }
+    ]
+  },
+  {
+    "quest": "Chi era il marito di Francesca da Polenta?",
+    "rightAns": "B",
+    "answers": [
+      {
+        "id": "A",
+        "text": "Paolo"
+      },
+      {
+        "id": "B",
+        "text": "Gianciotto da Rimini"
+      },
+      {
+        "id": "C",
+        "text": "Virgilio"
+      },
+      {
+        "id": "D",
+        "text": "San Francesco"
+      }
+    ]
+  },
+  {
+    "quest": "In quale bolgia sono puniti gli ipocriti?",
+    "rightAns": "C",
+    "answers": [
+      {
+        "id": "A",
+        "text": "Settima"
+      },
+      {
+        "id": "B",
+        "text": "Quinta"
+      },
+      {
+        "id": "C",
+        "text": "Sesta"
+      },
+      {
+        "id": "D",
+        "text": "Seconda"
+      }
+    ]
+  },
+  {
+    "quest": "Che tipo di peccatore era Ulisse?",
+    "rightAns": "D",
+    "answers": [
+      {
+        "id": "A",
+        "text": "Traditore"
+      },
+      {
+        "id": "B",
+        "text": "Indovino"
+      },
+      {
+        "id": "C",
+        "text": "Seduttore"
+      },
+      {
+        "id": "D",
+        "text": "Consigliere fraudolento"
+      }
+    ]
+  },
+  {
+    "quest": "Come si chiama il primo cerchio dell'Inferno?",
+    "rightAns": "A",
+    "answers": [
+      {
+        "id": "A",
+        "text": "Limbo"
+      },
+      {
+        "id": "B",
+        "text": "Vuoto"
+      },
+      {
+        "id": "C",
+        "text": "Passaggio"
+      },
+      {
+        "id": "D",
+        "text": "Capo"
+      }
+    ]
+  }
+]

@@ -2,16 +2,18 @@ import { useParams, useNavigate } from "react-router-dom"
 import Heading from "../../components/Heading/Heading"
 import "./Question.scss"
 import SubHeading from "../../components/SubHeading/SubHeading"
-import easyQuestions from "../../db/easy.json"
-import mediumQuestions from "../../db/medium.json"
-import hardQuestions from "../../db/hard.json"
+import hellQuestions from "../../db/inferno.json"
+import purgatorioQuestions from "../../db/purgatorio.json"
+import paradiseQuestions from "../../db/paradiso.json"
+import lifeQuestions from "../../db/life.json"
 import MainBtn from "../../components/MainBtn/MainBtn"
 import { useEffect, useState } from "react"
 import NextBtn from "../../components/NextBtn/NextBtn"
+import BackBtn from "../../components/BackBtn/BackBtn"
 
 const Question = () => {
   const navigate = useNavigate()
-  const { difficulty } = useParams()
+  const { level } = useParams()
 
   const [seconds, setSeconds] = useState(0)
   const [question, setQuestion] = useState()
@@ -19,7 +21,7 @@ const Question = () => {
   const [questionState, setQuestionState] = useState("answering") // "answering" || "answered"
   const [answersButtonsColors, setAnswersButtonsColors] = useState()
 
-  const maxAnswerTime = difficulty === "facile" ? 15 : 20
+  const maxAnswerTime = 20
 
   const addAnsweredQuestion = (ans, right, expiredTime = false, selected) => {
     const answersState = [...answeredQuestions]
@@ -39,7 +41,7 @@ const Question = () => {
   }
 
   const changeQuestion = () => {
-    const questions = difficulty === "facile" ? easyQuestions.filter(quest => !answeredQuestions.find(ans => ans.obj === quest)) : difficulty === "media" ? mediumQuestions.filter(quest => !answeredQuestions.find(ans => ans.obj === quest)) : difficulty === "difficile" ? hardQuestions.filter(quest => !answeredQuestions.find(ans => ans.obj === quest)) : undefined
+    const questions = level === "inferno" ? hellQuestions.filter(quest => !answeredQuestions.find(ans => ans.obj === quest)) : level === "purgatorio" ? purgatorioQuestions.filter(quest => !answeredQuestions.find(ans => ans.obj === quest)) : level === "paradiso" ? paradiseQuestions.filter(quest => !answeredQuestions.find(ans => ans.obj === quest)) : level === "vita" ? lifeQuestions.filter(quest => !answeredQuestions.find(ans => ans.obj === quest)) : undefined
     setQuestion(questions[Math.floor(Math.random() * questions.length)])
   }
 
@@ -68,7 +70,7 @@ const Question = () => {
   }, [])
 
   useEffect(() => {
-    if (answeredQuestions.length === 11) navigate("/risultati", {
+    if (answeredQuestions.length === 10) navigate("/risultati", {
       state: {
         answeredQuestions
       }
@@ -91,7 +93,10 @@ const Question = () => {
 
   return (
     <div className="question-page">
-        <Heading text={`Difficoltà: ${difficulty}`} />
+        <BackBtn onClick={() => {
+          navigate("/")
+        }} />
+        <Heading text={`Quiz: ${level}`} />
         <SubHeading text={question.quest} />
         <div className="grid-container">
           <div className="answers-container">
